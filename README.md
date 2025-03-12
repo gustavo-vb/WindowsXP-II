@@ -1,6 +1,6 @@
 # WindowsXP-II
 
-Para nosso projeto final da disciplina de Algorítimos e Estruturas de Dados II do 2º período do curso de Ciência da Computação, eu e meu grupo decidimos implementar novas funções ao nosso passado projeto em que simulamos o WindowsXP usando a <b>Linguagem C</b> e a biblioteca <b>graphics.h</b>. Dessa vez, implementamos um jogo sobre a saúde e, nesse jogo, utilizamos a estrutura de dados <b>Árvore</b> para que o jogador pudesse experienciar vários finais diferentes do jogo. Além disso, implementamos um sistema de <i><b>score</b></i>, onde a pontuação do jogador é armazenada em um documento de texto no Disco Rígido do usuário e, assim, essa pontuação é mostrada posteriormente dentro do jogo caso o jogador queira ver.
+Projeto final da disciplina de Algoritmos e Estruturas de Dados II (2º período de Ciência da Computação). O grupo aprimorou um projeto anterior que simulava o Windows XP em C com a biblioteca `graphics.h`, adicionando um <b><ins>jogo sobre saúde</ins></b>. O jogo usa uma <b>estrutura de dados <ins>árvore</ins></b> para diferentes finais e inclui um sistema de pontuação, armazenando o <b><i>score</b></i> em um arquivo no disco rígido para exibição dentro do jogo ou consulta posterior.
 
 Aqui está um [VÍDEO](https://youtu.be/iuRIwFLKuss?si=T6jMjMJcL502RYxX) onde eu e meus colegas apresentamos todas as funcionalidades do projeto, desde a primeira versão.
 
