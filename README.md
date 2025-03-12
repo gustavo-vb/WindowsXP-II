@@ -4,7 +4,7 @@ Para nosso projeto final da disciplina de Algorítimos e Estruturas de Dados II 
 
 Aqui está um [VÍDEO](https://youtu.be/iuRIwFLKuss?si=T6jMjMJcL502RYxX) onde eu e meus colegas apresentamos todas as funcionalidades do projeto, desde a primeira versão.
 
-*imagem aqui*
+<img src="https://github.com/gustavo-vb/WindowsXP-II/blob/ca65df80b4af047b91a5c25f5490807ce2bfa777/trab-winxpii/loading1.jpg">
 
 ## Autores:
 
